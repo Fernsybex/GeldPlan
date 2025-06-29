@@ -39,7 +39,7 @@ AdMob may collect:
 * Device information (model, OS version)
 
 We use Google’s **User Messaging Platform (UMP)** to obtain your consent for personalised or non-personalised ads (where legally required).
-You can change or withdraw your consent anytime via **Settings → About & Help → Privacy options ** in the App.
+You can change or withdraw your consent anytime via **Settings → About & Help → Privacy options** in the App.
 Ad data is used according to your consent and your Google Play Store ad preferences.
 Learn more in [Google AdMob & AdSense Privacy](https://policies.google.com/technologies/ads).
 
